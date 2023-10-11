@@ -1,0 +1,47 @@
+body {
+    background-color: #00000078;
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    
+    font-size: 2em;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 1em;
+    color: #eaff00;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #ff0000;
+    color: #ffffff;
+    font-size: 1em;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    display: block;
+
+  } 
+  
+  .titulo {
+    font-size: 2em;
+    color: rgb(0, 0, 120);
+    text-align: center;
+  }
+  
+  .text {
+    background-color: #ffffff;
+    text-align: center;
+  }
+
+  img {
+    margin: auto;
+    display: block;
+    width: 20%;
+    height: 20%;
+  }
+  
